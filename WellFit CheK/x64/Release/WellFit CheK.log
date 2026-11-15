@@ -1,0 +1,23 @@
+﻿  add_record.cpp
+  biological_sex_menu.cpp
+  border.cpp
+  compute.cpp
+  exit_menu.cpp
+  height_menu.cpp
+C:\Users\Adrien\Desktop\WellFit CheK\WellFit CheK\height_menu.cpp(183,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  login.cpp
+  login_failed.cpp
+  main.cpp
+  main_menu.cpp
+  help.cpp
+  startup.cpp
+  temperature_menu.cpp
+C:\Users\Adrien\Desktop\WellFit CheK\WellFit CheK\temperature_menu.cpp(106,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  user_manual.cpp
+  weight_menu.cpp
+C:\Users\Adrien\Desktop\WellFit CheK\WellFit CheK\weight_menu.cpp(107,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 232 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WellFit CheK.vcxproj -> C:\Users\Adrien\Desktop\WellFit CheK\x64\Release\WellFit CheK.exe

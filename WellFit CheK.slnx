@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WellFit CheK/WellFit CheK.vcxproj" Id="1a9d988b-27bc-4f80-96f1-c544ac8db56a">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\splash_screen.obj",
+            "outputs": [
+                "x64\\Debug\\splash_screen.cpp.obj.dt.module.json",
+                "x64\\Debug\\splash_screen.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
